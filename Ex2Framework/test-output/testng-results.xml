@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-19T22:42:24 IST" name="Default suite" finished-at="2021-10-19T22:42:37 IST" duration-ms="12013">
+    <groups>
+    </groups>
+    <test started-at="2021-10-19T22:42:24 IST" name="Default test" finished-at="2021-10-19T22:42:37 IST" duration-ms="12013">
+      <class name="webApplication.Amazon_TC">
+        <test-method is-config="true" signature="setup()[pri:0, instance:webApplication.Amazon_TC@66d3eec0]" started-at="2021-10-19T22:42:25 IST" name="setup" finished-at="2021-10-19T22:42:25 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:webApplication.Amazon_TC@66d3eec0]" started-at="2021-10-19T22:42:25 IST" name="setUp" finished-at="2021-10-19T22:42:28 IST" duration-ms="3970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="do_amazon_login()[pri:0, instance:webApplication.Amazon_TC@66d3eec0]" started-at="2021-10-19T22:42:28 IST" name="do_amazon_login" finished-at="2021-10-19T22:42:36 IST" duration-ms="7824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- do_amazon_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:webApplication.Amazon_TC@66d3eec0]" started-at="2021-10-19T22:42:36 IST" name="tearDown" finished-at="2021-10-19T22:42:36 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:webApplication.Amazon_TC@66d3eec0]" started-at="2021-10-19T22:42:36 IST" name="teardown" finished-at="2021-10-19T22:42:37 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- webApplication.Amazon_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
